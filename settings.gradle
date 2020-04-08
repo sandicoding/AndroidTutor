@@ -1,0 +1,2 @@
+rootProject.name='CodekitaPertama'
+include ':app'
